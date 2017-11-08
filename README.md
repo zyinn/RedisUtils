@@ -10,5 +10,5 @@ http://www.linuxidc.com/Linux/2016-03/129301.htm
 
 基础Redis命令
 ------- 
-![github](http://www.runoob.com/wp-content/uploads/2014/11/redis-install1.png “github”)；
+[![image]](http://www.runoob.com/wp-content/uploads/2014/11/redis-install1.png) [image]:
 http://www.runoob.com/redis/redis-tutorial.html
