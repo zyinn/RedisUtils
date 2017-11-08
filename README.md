@@ -12,7 +12,7 @@ http://www.linuxidc.com/Linux/2016-03/129301.htm
 ------- 
 1.启动
 $ redis-cli -h host -p port -a password <br> 
-2.启动成功
+2.启动成功如下 <br> 
 ![image](http://www.runoob.com/wp-content/uploads/2014/11/redis-install1.png)
 
 一些基础命令可参考：
