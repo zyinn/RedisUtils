@@ -64,3 +64,9 @@ http://www.runoob.com/redis/redis-tutorial.html
             <version>1.6</version>
         </dependency>
 ```
+
+## 作者信息
+
+- 作者博客：http://blog.csdn.net/zhang_yinan
+
+- 作者邮箱：zhangyinan07@hotmail.com
