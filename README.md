@@ -8,12 +8,13 @@ CentOS 6.5下Redis安装部署配置指南
 ------- 
 http://www.linuxidc.com/Linux/2016-03/129301.htm
 
-基础Redis命令
+启动redis
 ------- 
 1.启动
 $ redis-cli -h host -p port -a password <br> 
 2.启动成功如下 <br> 
 ![image](http://www.runoob.com/wp-content/uploads/2014/11/redis-install1.png)
 
-一些基础命令可参考：
+基础Redis命令
+-------  
 http://www.runoob.com/redis/redis-tutorial.html
