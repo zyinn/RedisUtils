@@ -1,0 +1,3 @@
+com\finruntech\redis\service\FrtRedisService.class
+com\finruntech\redis\service\FrtRedisServiceImpl.class
+com\finruntech\redis\FrtRedisApplication.class
