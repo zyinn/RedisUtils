@@ -1,5 +1,4 @@
 # RedisUtils
-redis
 
 Jedis操作Redis数据库
 ------- 
